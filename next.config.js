@@ -2,5 +2,5 @@
 const nextConfig = {
   reactStrictMode: true,
 };
-basePath: '/My-portfolio',
+basePath: '/MyPortfolio',
 module.exports = nextConfig;
